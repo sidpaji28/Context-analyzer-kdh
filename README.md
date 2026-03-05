@@ -1,0 +1,1 @@
+context analyzer that takes in a knowledge base and then take another input from user stating if the claim of the input matches with the backstory of the character they are specifying in the input . It also generates possible events done by characters based on their past works and facts.
